@@ -1,2 +1,3 @@
 # Data_Transfer_With_Arduino_Light
-Arduino, optik fiber verilerini okumak için fotodiyot ve amplifikatör devrelerini kullanabilir. Fotodiyot, optik fiberden gelen ışığı elektrik sinyaline dönüştürür ve amplifikatör bu sinyali artırarak Arduino'ya gönderir.
+
+Arduino can use photodiode and amplifier circuits to read optical fiber data. The photodiode converts the light from the optical fiber into an electrical signal and the amplifier amplifies this signal and sends it to the Arduino.
